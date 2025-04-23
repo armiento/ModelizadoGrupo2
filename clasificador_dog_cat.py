@@ -510,7 +510,7 @@ def streamlit_dog_cat_classifier():
     st.markdown("---")
     st.markdown("""
         <div style="text-align: center; padding: 10px; color: #64748b; font-size: 0.8rem;">
-            Desarrollado con ❤️ usando Streamlit, TensorFlow y Plotly | © 2025
+            Desarrollado con por Georgina Ifrán, Alejandro Rodríguez, Lucas Paz y Fernando Armiento usando Streamlit, TensorFlow y el modelo Xception | © 2025
         </div>
     """, unsafe_allow_html=True)
 
